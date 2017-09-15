@@ -15,3 +15,5 @@ spring:
   cloud:
     services:
       registrationMethod: direct
+
+message: Hello, Spring Cloud!
